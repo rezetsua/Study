@@ -1,0 +1,10 @@
+(cl:defpackage service_generator-srv
+  (:use )
+  (:export
+   "DINOFACTGENERATOR"
+   "<DINOFACTGENERATOR-REQUEST>"
+   "DINOFACTGENERATOR-REQUEST"
+   "<DINOFACTGENERATOR-RESPONSE>"
+   "DINOFACTGENERATOR-RESPONSE"
+  ))
+

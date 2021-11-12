@@ -1,0 +1,8 @@
+prefix=/home/urii/catkin_ws2/install
+
+Name: dino
+Description: Description of dino
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldino
+Requires: roscpp
