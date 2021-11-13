@@ -1,2 +1,0 @@
-client_server:dino:dinoGenerator:service_generator
--DCATKIN_DEVEL_PREFIX=/home/urii/catkin_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/urii/catkin_ws2/install -G Unix Makefiles

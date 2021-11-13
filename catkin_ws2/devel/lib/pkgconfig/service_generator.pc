@@ -1,8 +1,0 @@
-prefix=/home/urii/catkin_ws2/devel
-
-Name: service_generator
-Description: Description of service_generator
-Version: 0.0.0
-Cflags: -I/home/urii/catkin_ws2/devel/include
-Libs: -L${prefix}/lib 
-Requires: 

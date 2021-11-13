@@ -1,8 +1,0 @@
-prefix=/home/urii/catkin_ws2/devel
-
-Name: dinoGenerator
-Description: Description of dinoGenerator
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
